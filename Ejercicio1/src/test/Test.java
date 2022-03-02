@@ -15,15 +15,7 @@ public class Test {
 		System.out.println(operacion1.SumaIncremento(4));
 		
 		System.out.println("Resta");
-		Resta operacion2 = new Resta();
-		System.out.println(operacion2.RestaDosNumeros(12,6));
-		System.out.println(operacion2.RestaDosNumeros(2,8));
-		
-		System.out.println(operacion2.numero);
-		System.out.println(operacion2.RestaIncremento(4));
-		System.out.println(operacion2.RestaIncremento(4));
-		
-		//prueba
+
 
 		
 	}
