@@ -23,12 +23,7 @@ public class Test {
 		System.out.println(operacion2.RestaIncremento(4));
 		System.out.println(operacion2.RestaIncremento(4));
 		
-		//Con conflicto --> No borramos nada.
-		
-		//Head
-		System.out.println("Nuevo commit 1 desde PrimeraRama");
-		//master
-		System.out.println("Commit desde Master 1");
+		//prueba
 
 		
 	}
