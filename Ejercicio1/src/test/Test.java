@@ -15,6 +15,7 @@ public class Test {
 		System.out.println(operacion1.SumaIncremento(4));
 		
 		System.out.println("Primer Repositorio local");
+		System.out.println("Prueba 1");
 		
 	}
 
